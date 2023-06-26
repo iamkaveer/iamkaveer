@@ -4,14 +4,13 @@
 </div>
 
 ## 🚀 About Me
-Hello and welcome to my GitHub profile! Are you looking for a Java backend developer with a fresh perspective and a passion for coding? Well, you've come to the right place. As a fresher in the world of Java backend development, I bring a blend of enthusiasm, a strong foundation in Java programming, and a desire to contribute to innovative projects.
-In today's technology-driven world, where reliable and efficient server-side applications are in high demand, Java backend developers play a crucial role. With my expertise in Java programming, data structures, and algorithms, I am well-equipped to tackle complex challenges and build robust solutions.
+👨‍💻 Hello and welcome to my GitHub profile! Are you looking for a Java backend developer with a fresh perspective and a passion for coding? Well, you've come to the right place. As a fresher in the world of Java backend development, I bring a blend of enthusiasm, a strong foundation in Java programming, and a desire to contribute to innovative projects.
 
-👨‍💻 
+💻  In today's technology-driven world, where reliable and efficient server-side applications are in high demand, Java backend developers play a crucial role. With my expertise in Java programming, data structures, and algorithms, I am well-equipped to tackle complex challenges and build robust solutions.
 
-⚙️ 
-
-💻 
+##  🎓 Education
+- ICFAI University (2018 - 2022)
+  - Degree: BTech in Computer Science & Engineering
 
 ## ⚡️ Skills
 - **Programming Languages:**: Java , C/C++, Python
@@ -20,8 +19,6 @@ In today's technology-driven world, where reliable and efficient server-side app
 - **Version Control**: Git
 - **Other Tools**: Maven, IntelliJ IDEA, PyCharm
   
-- 🌱 I’m currently learning **Java, Springboot, Microservices**
-
 - 🤝 I’m looking for a job **as a Backend developer**
 
 - 💬 Ask me about **Java, DSA**
