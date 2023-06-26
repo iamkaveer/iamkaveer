@@ -1,10 +1,26 @@
-<h1 align="center">Hi 👋, I'm Kaveer</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<div align="center">
+  <h1>Hi there, I'm Kabir Hossain ! 👋</h1>
+  <p>A passionate Java developer with a knack for Spring Boot and a love for coding! 💻</p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkaveer&label=Profile%20views&color=0e75b6&style=flat" alt="iamkaveer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamkaveer" alt="iamkaveer" /></a> </p>
 
+## 🚀 About Me
+👨‍💻 
+
+⚙️ 
+
+💻 
+
+## ⚡️ Skills
+- **Programming Languages:**: Java , C/C++, Python
+- **Frameworks**: Spring Boot
+- **Databases**: MySQL
+- **Version Control**: Git
+- **Other Tools**: Maven, IntelliJ IDEA, PyCharm
+  
 - 🌱 I’m currently learning **Java, Springboot, Microservices**
 
 - 🤝 I’m looking for a job **as a Backend developer**
